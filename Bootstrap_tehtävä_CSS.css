@@ -1,0 +1,280 @@
+main {
+    
+    background-color: #003800;
+    padding-top: 12px;
+    padding-bottom: 8px;
+}
+
+
+
+
+#h1väri1 {
+    color: white;
+    margin-bottom: 30px;
+    
+}
+
+#Otsikkonappi {
+
+    display: flex;
+    row-gap: 50px;
+    border-style:hidden;
+    box-shadow: 0px 2px 20px black;
+    margin-right: 380px;
+    border-radius: 30px;
+    background-color: #66C25E ;
+    margin-top: 30px;
+}
+
+
+#h1väri2 {
+        color: white;
+        margin-top: 100px;
+        margin-bottom: 20px;
+}
+
+#h1väri3 {
+    color: white;
+}
+
+#h2väri1{
+    color: aqua;
+}
+
+h1, h2 {
+    color: blue;
+}
+#alaotsikko{
+    color: white;
+}
+p {
+    color: white;
+}
+
+#Text {
+    margin-top: 20px;
+    font-weight: bolder;
+}
+
+#Formtitle {
+    margin-bottom: 30px;
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+}
+
+#Kuolema {
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+
+#Sotarikokset {
+    
+    text-align: center;
+    
+}
+
+
+[class*="col"] section {
+    padding: 60px 0;
+}
+
+
+.form-signin {
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh; /* Adjust as needed to center vertically in the viewport */
+}
+
+.col-md-4 {
+/* Add any additional styling you need for the form container */
+background-color: white;
+}
+
+nav {
+    margin-bottom: 100px;
+}
+
+#Menu {
+    border-style:hidden;
+    box-shadow: 0px 2px 20px black;
+    margin-right: 10px;
+    border-radius: 30px;
+    background-color: #66C25E ;
+    
+}
+
+.nav-item_1 {
+    display: flex;
+    row-gap: 50px;
+    border-style:hidden;
+    box-shadow: 0px 2px 20px black;
+    margin-right: 10px;
+    border-radius: 30px;
+    background-color: #66C25E ;
+    
+
+}
+.nav-item_2 {
+    border-style:hidden;
+    box-shadow: 0px 2px 20px black;
+    margin-right: 10px;
+    border-radius: 30px;
+    background-color: #66C25E;
+
+}
+.nav-item_3 {
+    border-style:hidden;
+    box-shadow: 0px 2px 20px black;
+    margin-right: 10px;
+    border-radius: 30px;
+    background-color: #66C25E;
+
+}
+.nav-item_4 {
+    border-style:hidden;
+    box-shadow: 0px 2px 20px black;
+    margin-right: 10px;
+    border-radius: 30px;
+    background-color: #66C25E;
+
+}
+
+.nav-item_5 {
+    border-style:hidden;
+    box-shadow: 0px 2px 20px black;
+    margin-right: 10px;
+    border-radius: 30px;
+    background-color: #66C25E;
+
+}
+
+.navbar-brand {
+    border-style:hidden;
+    box-shadow: 0px 2px 20px black;
+    padding: 5px;
+    border-radius: 30px;
+}
+.img-fluid {
+    border-style: hidden;
+    border-radius: 500px;
+    box-shadow: 0px 2px 50px #66C25E;
+    width: 200%;
+    height: 200%;
+    
+}
+.img-fluid2 {
+    width: 100%;
+    height: 100%;
+    border-style: hidden;
+    border-radius: 500px;
+    box-shadow: 0px 2px 50px #66C25E;
+    margin-top: 120px;
+    
+   
+}
+#Mikentiedot {
+    margin-left: 100px;
+}
+
+
+
+#card1, #card2, #card3, #card4 {
+    background-color: yellow;
+
+}
+
+
+#Cards {
+    margin-top: 200px;
+    
+}
+.card {
+    perspective: 1000px;
+    margin: 30px;
+    width: 220px;
+    border-style:hidden;
+    box-shadow: 0px 2px 20px black;
+    padding: 5px;
+    border-radius: 30px;
+    
+    
+    
+  }
+
+  .card-inner {
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+  }
+
+  .card:hover .card-inner {
+    transform: rotateY(180deg);
+  }
+
+  .card-front,
+  .card-back {
+    backface-visibility: hidden;
+  }
+
+  .card-back {
+    transform: rotateY(180deg);
+    border-radius: 30px;
+    box-shadow: 0px 2px 100px orangered;
+  }
+
+  #cheesetext {
+
+    color: black;
+    font-weight: bolder;
+  }
+    
+    
+      
+  .card-img-top {
+
+  }
+  #MIKE{
+    text-align: center;
+    color: yellow;
+    margin-bottom: 30px;
+  }
+
+  #topic1 {
+    margin-top: 100px;
+  }
+  #topic2 {
+    
+    margin-top: 200px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+  }
+
+  #topic4 {
+
+    margin-top: -50px;
+  }
+
+  #topic5 {
+
+    margin-top: 200px;
+    margin-bottom: 200px;
+  }
+
+  #source1 {
+    margin-left: 15px;
+  }
+
+
+
+  #source2 {
+    margin-left: 15px;
+    margin-top: -20px;
+    
+  }
+  
+
+
